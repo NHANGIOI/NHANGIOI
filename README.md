@@ -1,4 +1,4 @@
-## About me
+## 💻 About me
 
 - 🎓 I’m an **FPT University Student**.
 
