@@ -35,8 +35,8 @@
 
 ## 🌟 Connect with me
 
-- **Email:** [nhannguyen120216@gmail.com](mailto:nhannguyen120216@gmail.com)  
-- **VNOJ:** [NHANGIOI](https://oj.vnoi.info/user/NHANGIOI)
-- **Codeforces:** [nhannguyen120216](https://codeforces.com/profile/nhannguyen120216@gmail.com)
-- **Leetcode:** [NHANGIOI](https://leetcode.com/u/NHANGIOI/)
-- **Kaggle:** [NHANGIOI](https://www.kaggle.com/nhangioi)
+- **Email:** <a href="mailto:nhannguyen120216@gmail.com"><img src="https://img.shields.io/badge/Email-nhannguyen120216@gmail.com-C91E1E?style=flat&logo=gmail"></a>
+- **VNOJ:** <a href="https://oj.vnoi.info/user/NHANGIOI"><img src="https://img.shields.io/badge/VNOJ-NHANGIOI-FF6B35?style=flat&logo=vnoi"></a>
+- **Codeforces:** <a href="https://codeforces.com/profile/NHANGIOI"><img src="https://img.shields.io/badge/Codeforces-NHANGIOI-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a>
+- **Leetcode:** <a href="https://leetcode.com/u/NHANGIOI/"><img src="https://img.shields.io/badge/leetcode-NHANGIOI-F59C18?style=flat&logo=leetcode"></a>
+- **Kaggle:** <a href="https://kaggle.com/NHANGIOI"><img src="https://img.shields.io/badge/Kaggle-NHANGIOI-20BEFF?style=flat&logo=kaggle"></a>
